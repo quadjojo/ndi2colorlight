@@ -1,0 +1,16 @@
+# NDI LED Wall Configuration
+# Copy to wall.conf and adjust for your setup
+
+# Panel dimensions (pixels per panel)
+panel_width=64
+panel_height=32
+
+# Panel grid layout
+panels_x=6
+panels_y=4
+
+# Brightness (0-100)
+brightness=100
+
+# Gamma correction (1.0 = linear, 2.2 = typical display gamma)
+gamma=1.0

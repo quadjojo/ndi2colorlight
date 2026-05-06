@@ -1,0 +1,23 @@
+# C build artifacts
+*.o
+*.a
+*.so
+
+# Compiled binary
+/ndi-led-cli
+
+# Local config (template stays as wall.conf.example)
+/wall.conf
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tooling local state
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
